@@ -1,0 +1,36 @@
+/* RC27: Contact and quote basket use the same horizontal inset as all other pages.
+   These pages have a direct .container and .rc6-page-visual, not .hero-grid. */
+body:has(#basketItems) section.hero.rc6-hero,
+body:has(form[action*="formsubmit"]) section.hero.rc6-hero:has(> .rc6-page-visual) {
+  display:grid !important;
+  grid-template-columns:minmax(0,1fr) minmax(0,1fr);
+  align-items:center;
+  column-gap:clamp(28px,4vw,70px);
+  padding-inline:var(--rc26-gutter,clamp(24px,3.1vw,56px)) !important;
+  box-sizing:border-box;
+}
+body:has(#basketItems) section.hero.rc6-hero > .container,
+body:has(form[action*="formsubmit"]) section.hero.rc6-hero:has(> .rc6-page-visual) > .container {
+  width:100% !important;
+  max-width:none !important;
+  min-width:0;
+  margin:0 !important;
+  padding:0 !important;
+}
+body:has(#basketItems) section.hero.rc6-hero > .rc6-page-visual,
+body:has(form[action*="formsubmit"]) section.hero.rc6-hero:has(> .rc6-page-visual) > .rc6-page-visual {
+  display:block !important;
+  position:relative !important;
+  width:100% !important;
+  min-width:0;
+  overflow:hidden;
+  border-radius:18px;
+}
+body:has(#basketItems) section.hero.rc6-hero > .rc6-page-visual img,
+body:has(form[action*="formsubmit"]) section.hero.rc6-hero:has(> .rc6-page-visual) > .rc6-page-visual img {
+  display:block;width:100%;height:auto;aspect-ratio:1.5;object-fit:cover;
+}
+@media(max-width:800px){
+ body:has(#basketItems) section.hero.rc6-hero,
+ body:has(form[action*="formsubmit"]) section.hero.rc6-hero:has(> .rc6-page-visual){grid-template-columns:1fr;row-gap:26px}
+}

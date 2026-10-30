@@ -1,0 +1,440 @@
+[
+  {
+    "promotion": "Business Technology Bundles",
+    "promotion_id": "EXEC-5",
+    "bundle": "Executive Mobility Bundle",
+    "category": "Executive Teams",
+    "minimum_units": 5,
+    "stock_bundles": 1,
+    "lead_time": "Confirmed on quote",
+    "total_price": null,
+    "currency": "ZAR",
+    "bundle_terms": "Minimum order: 5 users. Final specification, availability, warranty and pricing confirmed on formal quote.",
+    "outcome": "Premium mobile productivity for directors, executives and senior managers.",
+    "items": [
+      {
+        "qty": 5,
+        "name": "Premium business laptop | Lenovo ThinkPad T14s / Dell Latitude equivalent | 16GB RAM | 512GB SSD | Windows 11 Pro",
+        "sku": "EXEC-LAPTOP",
+        "category": "Laptop"
+      },
+      {
+        "qty": 5,
+        "name": "USB-C docking station",
+        "sku": "EXEC-DOCK",
+        "category": "Dock"
+      },
+      {
+        "qty": 5,
+        "name": "27 inch business monitor",
+        "sku": "EXEC-MONITOR",
+        "category": "Monitor"
+      },
+      {
+        "qty": 5,
+        "name": "Wireless keyboard and mouse combo",
+        "sku": "EXEC-KM",
+        "category": "Peripheral"
+      },
+      {
+        "qty": 5,
+        "name": "Executive carry case",
+        "sku": "EXEC-CASE",
+        "category": "Accessory"
+      }
+    ],
+    "ideal_for": "Executive leaders",
+    "deployment_size": "5 users",
+    "technology_platform": "ThinkPad T14s / Latitude premium equivalent",
+    "lifecycle_grade": "Enterprise Refurbished",
+    "sourcing_model": "Professional lifecycle management",
+    "sustainability_note": "Supports circular economy outcomes by extending the useful life of enterprise technology."
+  },
+  {
+    "promotion": "Business Technology Bundles",
+    "promotion_id": "SALES-25",
+    "bundle": "Sales Team Deployment Bundle",
+    "category": "Sales Teams",
+    "minimum_units": 25,
+    "stock_bundles": 1,
+    "lead_time": "Confirmed on quote",
+    "total_price": null,
+    "currency": "ZAR",
+    "bundle_terms": "Minimum order: 25 users. Designed for sales teams that need standardised mobile devices, accessories and rapid rollout.",
+    "outcome": "Equip a full sales team with mobile, standardised, quote-ready devices.",
+    "items": [
+      {
+        "qty": 25,
+        "name": "Business laptop | Lenovo ThinkPad T14 / T14s / Dell Latitude equivalent | 16GB RAM | 256GB/512GB SSD | Windows 11 Pro",
+        "sku": "SALES-LAPTOP",
+        "category": "Laptop"
+      },
+      {
+        "qty": 25,
+        "name": "Laptop carry bag",
+        "sku": "SALES-BAG",
+        "category": "Accessory"
+      },
+      {
+        "qty": 25,
+        "name": "Business headset",
+        "sku": "SALES-HEADSET",
+        "category": "Peripheral"
+      },
+      {
+        "qty": 25,
+        "name": "USB-C dock or travel adaptor option",
+        "sku": "SALES-DOCK",
+        "category": "Dock"
+      }
+    ],
+    "ideal_for": "Sales teams",
+    "deployment_size": "25 users",
+    "technology_platform": "ThinkPad T14 / T14s / Latitude equivalent",
+    "lifecycle_grade": "Enterprise Refurbished",
+    "sourcing_model": "Professional lifecycle management",
+    "sustainability_note": "Supports circular economy outcomes by extending the useful life of enterprise technology."
+  },
+  {
+    "promotion": "Business Technology Bundles",
+    "promotion_id": "DEV-5",
+    "bundle": "Developer Productivity Bundle",
+    "category": "Developer Teams",
+    "minimum_units": 5,
+    "stock_bundles": 1,
+    "lead_time": "Confirmed on quote",
+    "total_price": null,
+    "currency": "ZAR",
+    "bundle_terms": "Minimum order: 5 users. Final device class depends on RAM, CPU and dual-screen requirements.",
+    "outcome": "High-productivity workstation setup for software, data and engineering teams.",
+    "items": [
+      {
+        "qty": 5,
+        "name": "High-spec developer laptop | Core i7/Ryzen 7 class | 32GB RAM | 1TB SSD | Windows 11 Pro / Linux-ready",
+        "sku": "DEV-LAPTOP",
+        "category": "Laptop"
+      },
+      {
+        "qty": 5,
+        "name": "USB-C docking station",
+        "sku": "DEV-DOCK",
+        "category": "Dock"
+      },
+      {
+        "qty": 10,
+        "name": "24/27 inch business monitors for dual-screen setup",
+        "sku": "DEV-MONITOR",
+        "category": "Monitor"
+      },
+      {
+        "qty": 5,
+        "name": "Keyboard and mouse combo",
+        "sku": "DEV-KM",
+        "category": "Peripheral"
+      }
+    ],
+    "ideal_for": "Software and data teams",
+    "deployment_size": "5 users",
+    "technology_platform": "High-RAM developer workstation platforms",
+    "lifecycle_grade": "Enterprise Refurbished",
+    "sourcing_model": "Professional lifecycle management",
+    "sustainability_note": "Supports circular economy outcomes by extending the useful life of enterprise technology."
+  },
+  {
+    "promotion": "Business Technology Bundles",
+    "promotion_id": "HYBRID-10",
+    "bundle": "Hybrid Workforce Bundle",
+    "category": "Hybrid Workforce",
+    "minimum_units": 10,
+    "stock_bundles": 1,
+    "lead_time": "Confirmed on quote",
+    "total_price": null,
+    "currency": "ZAR",
+    "bundle_terms": "Minimum order: 10 users. Built for hybrid teams needing consistent desk and mobile productivity.",
+    "outcome": "Standardise hybrid work with laptop, dock, monitor and collaboration accessories.",
+    "items": [
+      {
+        "qty": 10,
+        "name": "Business laptop | 16GB RAM | 512GB SSD | Windows 11 Pro",
+        "sku": "HYBRID-LAPTOP",
+        "category": "Laptop"
+      },
+      {
+        "qty": 10,
+        "name": "USB-C docking station",
+        "sku": "HYBRID-DOCK",
+        "category": "Dock"
+      },
+      {
+        "qty": 10,
+        "name": "24/27 inch monitor",
+        "sku": "HYBRID-MONITOR",
+        "category": "Monitor"
+      },
+      {
+        "qty": 10,
+        "name": "Webcam or headset option",
+        "sku": "HYBRID-COLLAB",
+        "category": "Collaboration"
+      },
+      {
+        "qty": 10,
+        "name": "Keyboard and mouse combo",
+        "sku": "HYBRID-KM",
+        "category": "Peripheral"
+      }
+    ],
+    "ideal_for": "Hybrid workforce teams",
+    "deployment_size": "10 users",
+    "technology_platform": "Business laptops, docks and monitors",
+    "lifecycle_grade": "Enterprise Refurbished",
+    "sourcing_model": "Professional lifecycle management",
+    "sustainability_note": "Supports circular economy outcomes by extending the useful life of enterprise technology."
+  },
+  {
+    "promotion": "Business Technology Bundles",
+    "promotion_id": "FIN-10",
+    "bundle": "Finance & Operations Bundle",
+    "category": "Finance Teams",
+    "minimum_units": 10,
+    "stock_bundles": 1,
+    "lead_time": "Confirmed on quote",
+    "total_price": null,
+    "currency": "ZAR",
+    "bundle_terms": "Minimum order: 10 users. Designed for finance, payroll, admin and operations teams that benefit from dual-screen productivity.",
+    "outcome": "Multi-screen productivity pack for back-office and finance users.",
+    "items": [
+      {
+        "qty": 10,
+        "name": "Business laptop or compact desktop | 16GB RAM | 512GB SSD | Windows 11 Pro",
+        "sku": "FIN-COMPUTE",
+        "category": "Laptop/Desktop"
+      },
+      {
+        "qty": 20,
+        "name": "24 inch business monitors for dual-screen setup",
+        "sku": "FIN-MONITOR",
+        "category": "Monitor"
+      },
+      {
+        "qty": 10,
+        "name": "Docking station or desktop connectivity kit",
+        "sku": "FIN-DOCK",
+        "category": "Dock"
+      },
+      {
+        "qty": 10,
+        "name": "Keyboard and mouse combo",
+        "sku": "FIN-KM",
+        "category": "Peripheral"
+      }
+    ],
+    "ideal_for": "Finance and operations teams",
+    "deployment_size": "10 users",
+    "technology_platform": "Dual-screen business productivity platforms",
+    "lifecycle_grade": "Enterprise Refurbished",
+    "sourcing_model": "Professional lifecycle management",
+    "sustainability_note": "Supports circular economy outcomes by extending the useful life of enterprise technology."
+  },
+  {
+    "promotion": "Business Technology Bundles",
+    "promotion_id": "CALL-25",
+    "bundle": "Contact Centre Launch Bundle",
+    "category": "Contact Centres",
+    "minimum_units": 25,
+    "stock_bundles": 1,
+    "lead_time": "Confirmed on quote",
+    "total_price": null,
+    "currency": "ZAR",
+    "bundle_terms": "Minimum order: 25 users. Built for BPO, helpdesk and customer support floor deployments.",
+    "outcome": "Quote-ready technology pack for launching or expanding a contact centre team.",
+    "items": [
+      {
+        "qty": 25,
+        "name": "Compact desktop or business laptop | 8GB/16GB RAM | SSD | Windows 11 Pro",
+        "sku": "CALL-COMPUTE",
+        "category": "Desktop/Laptop"
+      },
+      {
+        "qty": 25,
+        "name": "Business monitor",
+        "sku": "CALL-MONITOR",
+        "category": "Monitor"
+      },
+      {
+        "qty": 25,
+        "name": "Noise-reducing headset",
+        "sku": "CALL-HEADSET",
+        "category": "Peripheral"
+      },
+      {
+        "qty": 25,
+        "name": "Keyboard and mouse combo",
+        "sku": "CALL-KM",
+        "category": "Peripheral"
+      }
+    ],
+    "ideal_for": "Contact Centres",
+    "deployment_size": "25 users",
+    "technology_platform": "Enterprise business platforms",
+    "lifecycle_grade": "Enterprise Refurbished",
+    "sourcing_model": "Professional lifecycle management",
+    "sustainability_note": "Supports circular economy outcomes by extending the useful life of enterprise technology."
+  },
+  {
+    "promotion": "Business Technology Bundles",
+    "promotion_id": "STARTUP-5",
+    "bundle": "Startup Launch Bundle",
+    "category": "Startups & SMEs",
+    "minimum_units": 5,
+    "stock_bundles": 1,
+    "lead_time": "Confirmed on quote",
+    "total_price": null,
+    "currency": "ZAR",
+    "bundle_terms": "Minimum order: 5 users. Ideal for new teams, branch launches and SME refresh projects.",
+    "outcome": "A complete starter technology pack for a small team.",
+    "items": [
+      {
+        "qty": 5,
+        "name": "Business laptop | 16GB RAM | 512GB SSD | Windows 11 Pro",
+        "sku": "START-LAPTOP",
+        "category": "Laptop"
+      },
+      {
+        "qty": 5,
+        "name": "24 inch monitor",
+        "sku": "START-MONITOR",
+        "category": "Monitor"
+      },
+      {
+        "qty": 5,
+        "name": "Keyboard and mouse combo",
+        "sku": "START-KM",
+        "category": "Peripheral"
+      },
+      {
+        "qty": 5,
+        "name": "Carry bag",
+        "sku": "START-BAG",
+        "category": "Accessory"
+      }
+    ],
+    "ideal_for": "Startups and new teams",
+    "deployment_size": "5 users",
+    "technology_platform": "Business laptop starter platforms",
+    "lifecycle_grade": "Enterprise Refurbished",
+    "sourcing_model": "Professional lifecycle management",
+    "sustainability_note": "Supports circular economy outcomes by extending the useful life of enterprise technology."
+  },
+  {
+    "promotion": "Business Technology Bundles",
+    "promotion_id": "FIELD-5",
+    "bundle": "Field Service Rugged Bundle",
+    "category": "Field Teams",
+    "minimum_units": 5,
+    "stock_bundles": 1,
+    "lead_time": "Confirmed on quote",
+    "total_price": null,
+    "currency": "ZAR",
+    "bundle_terms": "Minimum order: 5 users. Availability depends on rugged or semi-rugged inventory at quote stage.",
+    "outcome": "Durable mobile devices for logistics, field service and operational teams.",
+    "items": [
+      {
+        "qty": 5,
+        "name": "Rugged or semi-rugged business laptop | Windows 11 Pro",
+        "sku": "FIELD-RUGGED",
+        "category": "Rugged Laptop"
+      },
+      {
+        "qty": 5,
+        "name": "Vehicle/travel power option",
+        "sku": "FIELD-POWER",
+        "category": "Accessory"
+      },
+      {
+        "qty": 5,
+        "name": "Protective carry case",
+        "sku": "FIELD-CASE",
+        "category": "Accessory"
+      },
+      {
+        "qty": 5,
+        "name": "Optional dock or field connectivity kit",
+        "sku": "FIELD-DOCK",
+        "category": "Dock"
+      }
+    ],
+    "ideal_for": "Field service teams",
+    "deployment_size": "5 users",
+    "technology_platform": "Rugged or semi-rugged mobile platforms",
+    "lifecycle_grade": "Enterprise Refurbished",
+    "sourcing_model": "Professional lifecycle management",
+    "sustainability_note": "Supports circular economy outcomes by extending the useful life of enterprise technology."
+  },
+  {
+    "promotion": "Business Technology Bundles",
+    "promotion_id": "CLASS-20",
+    "bundle": "Training Lab Bundle",
+    "category": "Training & Education",
+    "minimum_units": 20,
+    "stock_bundles": 1,
+    "lead_time": "Confirmed on quote",
+    "total_price": null,
+    "currency": "ZAR",
+    "bundle_terms": "Minimum order: 20 users. Designed for classrooms, academies, labs and enablement programmes.",
+    "outcome": "Standardised devices for training rooms, labs and education deployments.",
+    "items": [
+      {
+        "qty": 20,
+        "name": "Business laptop or compact desktop | SSD | Windows 11 Pro",
+        "sku": "CLASS-COMPUTE",
+        "category": "Laptop/Desktop"
+      },
+      {
+        "qty": 20,
+        "name": "Business monitor where desktop configuration is selected",
+        "sku": "CLASS-MONITOR",
+        "category": "Monitor"
+      },
+      {
+        "qty": 20,
+        "name": "Keyboard and mouse combo",
+        "sku": "CLASS-KM",
+        "category": "Peripheral"
+      }
+    ],
+    "ideal_for": "Training & Education",
+    "deployment_size": "20 users",
+    "technology_platform": "Enterprise business platforms",
+    "lifecycle_grade": "Enterprise Refurbished",
+    "sourcing_model": "Professional lifecycle management",
+    "sustainability_note": "Supports circular economy outcomes by extending the useful life of enterprise technology."
+  },
+  {
+    "promotion": "Business Technology Bundles",
+    "promotion_id": "MSP-T14-5",
+    "bundle": "ThinkPad T14s Resale Bundle",
+    "category": "MSP & Reseller Lots",
+    "minimum_units": 5,
+    "stock_bundles": 1,
+    "lead_time": "Confirmed on quote",
+    "total_price": null,
+    "currency": "ZAR",
+    "bundle_terms": "Minimum order: 5 units. Built from available T14/T14s-grade stock; final grade, cosmetic condition and warranty confirmed on quote.",
+    "outcome": "Small, clean resale lot for MSPs and brokers without bulk inventory risk.",
+    "items": [
+      {
+        "qty": 5,
+        "name": "Lenovo ThinkPad T14s / T14 class refurbished business laptops | 16GB RAM | SSD | Windows 11 Pro",
+        "sku": "T14S-LOT-5",
+        "category": "Laptop"
+      }
+    ],
+    "ideal_for": "MSP & Reseller Lots",
+    "deployment_size": "5 users",
+    "technology_platform": "Enterprise business platforms",
+    "lifecycle_grade": "Enterprise Refurbished",
+    "sourcing_model": "Professional lifecycle management",
+    "sustainability_note": "Supports circular economy outcomes by extending the useful life of enterprise technology."
+  }
+]

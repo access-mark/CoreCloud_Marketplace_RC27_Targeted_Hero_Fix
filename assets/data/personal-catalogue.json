@@ -1,0 +1,65 @@
+{
+  "notice": "Illustrative product families only. No stock, price, specification or warranty is confirmed until supplier quotation.",
+  "products": [
+    {
+      "id": "thinkpad-t14",
+      "name": "Lenovo ThinkPad T14 class",
+      "category": "Everyday",
+      "cpu": "Intel Core i5 class",
+      "ram": "16 GB",
+      "storage": "256 GB SSD",
+      "screen": "14-inch",
+      "grade": "Refurbished \u00b7 grade confirmed on quote"
+    },
+    {
+      "id": "latitude-54",
+      "name": "Dell Latitude 54-series class",
+      "category": "Everyday",
+      "cpu": "Intel Core i5 class",
+      "ram": "16 GB",
+      "storage": "256 GB SSD",
+      "screen": "14-inch",
+      "grade": "Refurbished \u00b7 grade confirmed on quote"
+    },
+    {
+      "id": "thinkpad-t14s",
+      "name": "Lenovo ThinkPad T14s class",
+      "category": "Professional",
+      "cpu": "Intel Core i5/i7 class",
+      "ram": "16 GB",
+      "storage": "512 GB SSD",
+      "screen": "14-inch",
+      "grade": "Refurbished \u00b7 grade confirmed on quote"
+    },
+    {
+      "id": "latitude-74",
+      "name": "Dell Latitude 74-series class",
+      "category": "Professional",
+      "cpu": "Intel Core i5/i7 class",
+      "ram": "16 GB",
+      "storage": "512 GB SSD",
+      "screen": "14-inch",
+      "grade": "Refurbished \u00b7 grade confirmed on quote"
+    },
+    {
+      "id": "thinkpad-p",
+      "name": "Lenovo ThinkPad P-series class",
+      "category": "Performance",
+      "cpu": "Performance CPU options",
+      "ram": "32 GB option",
+      "storage": "512 GB+ SSD",
+      "screen": "15\u201316-inch",
+      "grade": "Refurbished \u00b7 grade confirmed on quote"
+    },
+    {
+      "id": "latitude-precision",
+      "name": "Dell Precision class",
+      "category": "Performance",
+      "cpu": "Workstation CPU options",
+      "ram": "32 GB option",
+      "storage": "512 GB+ SSD",
+      "screen": "15\u201316-inch",
+      "grade": "Refurbished \u00b7 grade confirmed on quote"
+    }
+  ]
+}

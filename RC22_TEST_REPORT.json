@@ -1,0 +1,107 @@
+[
+  {
+    "page": "index.html",
+    "width": 390,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/index.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/index.html\", waiti"
+  },
+  {
+    "page": "index.html",
+    "width": 768,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/index.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/index.html\", waiti"
+  },
+  {
+    "page": "index.html",
+    "width": 1440,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/index.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/index.html\", waiti"
+  },
+  {
+    "page": "development.html",
+    "width": 390,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/development.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/development."
+  },
+  {
+    "page": "development.html",
+    "width": 768,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/development.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/development."
+  },
+  {
+    "page": "development.html",
+    "width": 1440,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/development.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/development."
+  },
+  {
+    "page": "software.html",
+    "width": 390,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/software.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/software.html\","
+  },
+  {
+    "page": "software.html",
+    "width": 768,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/software.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/software.html\","
+  },
+  {
+    "page": "software.html",
+    "width": 1440,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/software.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/software.html\","
+  },
+  {
+    "page": "phoenix.html",
+    "width": 390,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/phoenix.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/phoenix.html\", w"
+  },
+  {
+    "page": "phoenix.html",
+    "width": 768,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/phoenix.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/phoenix.html\", w"
+  },
+  {
+    "page": "phoenix.html",
+    "width": 1440,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/phoenix.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/phoenix.html\", w"
+  },
+  {
+    "page": "shop.html",
+    "width": 390,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/shop.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/shop.html\", waiting"
+  },
+  {
+    "page": "shop.html",
+    "width": 768,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/shop.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/shop.html\", waiting"
+  },
+  {
+    "page": "shop.html",
+    "width": 1440,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/shop.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/shop.html\", waiting"
+  },
+  {
+    "page": "contact.html",
+    "width": 390,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/contact.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/contact.html\", w"
+  },
+  {
+    "page": "contact.html",
+    "width": 768,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/contact.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/contact.html\", w"
+  },
+  {
+    "page": "contact.html",
+    "width": 1440,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/contact.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/contact.html\", w"
+  },
+  {
+    "page": "cart.html",
+    "width": 390,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/cart.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/cart.html\", waiting"
+  },
+  {
+    "page": "cart.html",
+    "width": 768,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/cart.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/cart.html\", waiting"
+  },
+  {
+    "page": "cart.html",
+    "width": 1440,
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8765/cart.html\nCall log:\n  - navigating to \"http://127.0.0.1:8765/cart.html\", waiting"
+  }
+]
